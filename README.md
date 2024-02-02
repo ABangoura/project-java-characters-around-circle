@@ -1,2 +1,3 @@
 # project-java-characters-around-circle
-Repository for all my projects: Java, JS, WebDev, ...
+Project:
+A JavaFX program to display the string "Learning JavaFX" around a circle.
